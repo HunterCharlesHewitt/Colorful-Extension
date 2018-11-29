@@ -1,0 +1,7 @@
+html{animation:a 100000000000000s infinite linear,c .8s infinite linear!important}
+body{background:linear-gradient(90deg,red,orange,#ff0,green,blue,indigo,violet)!important}
+img{animation:b 2.7s infinite linear!important}
+@keyframes a{0%{-webkit-filter:saturate(70%);
+filter:saturate(300%)}to{-webkit-filter:saturate(300%);
+filter:saturate(300%)}}
+@keyframes b{0%{-webkit-filter:hue-rotate(0deg);filter:hue-rotate(0deg)}to{-webkit-filter:hue-rotate(1turn);filter:hue-rotate(1turn)}}
