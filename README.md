@@ -8,3 +8,4 @@ In order to demo the code
 4. In your chrome browser, go to chrome://extensions/
 5. Click load unpacked extension and choose the colorful extension folder
 6. Search some colorful images on chrome, click the icon, and have fun!
+
