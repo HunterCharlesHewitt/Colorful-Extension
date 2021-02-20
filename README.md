@@ -11,5 +11,5 @@ In order to demo the code
 
 
 # Example
-1. [sample gif](https://github.com/HunterCharlesHewitt/Colorful-Extension/edit/master/README.gif)
+![sample gif](https://github.com/HunterCharlesHewitt/Colorful-Extension/edit/master/README.gif)
 
