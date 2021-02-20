@@ -9,3 +9,7 @@ In order to demo the code
 5. Click load unpacked extension and choose the colorful extension folder
 6. Search some colorful images on chrome, click the icon, and have fun!
 
+
+# Example
+1. [sample gif](https://github.com/HunterCharlesHewitt/Colorful-Extension/edit/master/README.gif)
+
